@@ -1,2 +1,7 @@
 aaaaa
+<<<<<<< HEAD
 ddddd
+=======
+bbbbb
+ccccc
+>>>>>>> new
